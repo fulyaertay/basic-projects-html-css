@@ -1,4 +1,4 @@
-# Scrimba
+# personal-site-app
 
 Quick start:
 
