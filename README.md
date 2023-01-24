@@ -14,7 +14,7 @@
   I completed 4 projects of Module 2 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/htmlandcss). I mastered HTML/CSS in this project. 
   You can see the visual representations of the each app below.
   
-  ### Projects
+  ## Projects
   ### 1-Personal Site App
   ### Visulation of the App 
 
