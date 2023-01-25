@@ -1,0 +1,63 @@
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.header{
+    background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/be/b9/1f/photo2jpg.jpg?w=600&h=400&s=1");
+    background-size:cover;
+    background-position: fixed;
+    height:200px;
+    padding:40px;
+
+}
+#title{
+    background-color: #C7EAE4;
+    font-size:20px;
+    padding:5px;
+    display:inline;
+    
+}
+#content{
+    background-color: #C7EAE4;
+    font-size:20px;
+    padding:5px;   
+}
+.image-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:50px;
+}
+.guide-section{
+    display: flex;
+    margin:0 auto;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #373b44, #4286f4);
+    color:white;
+    width:400px;
+    padding:30px;
+    border-radius: 10px;
+    border-bottom: 6px solid gray;
+}
+.nearby-section{
+    margin:0 auto;
+    color:black;
+    width:100%;
+    padding:30px;
+    margin:10px;
+}
+
+img {
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    transition: all 350ms ease;
+}
+img:hover{
+    opacity: .6; 
+}
